@@ -285,3 +285,338 @@ public:
 <div align="center">
   <i>"Talk is cheap. Show me the code." - Linus Torvalds</i>
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div align="center">
+  <img
+    src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif"
+    width="100%"
+    alt="Cyberpunk Developer Coding Animation"
+  />
+</div>
+
+<br/>
+
+<h1 align="center">Hi 👋, I'm Pijush Pakrashi</h1>
+
+<h3 align="center">
+🐍 Python & Django Backend Developer | 🤖 AI & Robotics Enthusiast
+</h3>
+
+<p align="center">
+  <b>
+    Computer Science Student focused on Python, Django Backend Development,
+    Artificial Intelligence, Robotics and Intelligent Software Systems.
+  </b>
+</p>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=Python+%26+Django+Backend+Developer;Building+AI-Powered+Applications;REST+API+Developer;Exploring+Artificial+Intelligence+%26+Robotics;Always+Learning+%26+Improving"
+    alt="Typing SVG"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=pijush-pakrashi&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge"
+    height="35"
+    alt="Pijush Pakrashi Profile Views"
+  />
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 🐍 **Python & Django Backend Developer**
+- 🔗 Building **REST APIs and scalable backend systems**
+- 🤖 Interested in **Artificial Intelligence and Robotics**
+- 🚁 Creator of **AI Autonomous Drone System**
+- 📄 Developing **Mini ATS with AI Resume Parsing**
+- 🗄️ Working with **PostgreSQL and Database Design**
+- ☁️ Exploring **Cloud Computing and AI Integration**
+- 🎯 Goal: Become an **AI & Robotics Software Engineer**
+- 🧩 I enjoy **Problem Solving, Backend Architecture & Building Real-World Projects**
+- ⚡ Fun fact: **I love turning ideas into intelligent software solutions 🚀**
+
+---
+
+<h2 align="center">🌐 Connect With Me</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/pijush-pakrashi">
+    <img src="https://img.shields.io/badge/LinkedIn-Pijush%20Pakrashi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/rider_boy_pijush_">
+    <img src="https://img.shields.io/badge/Instagram-rider__boy__pijush__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:pijushpakrashi73@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-pijushpakrashi73-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Primary Email"/>
+  </a>
+  <a href="mailto:papaipakrashi73@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-papaipakrashi73-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Secondary Email"/>
+  </a>
+</p>
+
+---
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+### 🤖 Mini ATS — AI-Powered Applicant Tracking System
+
+An intelligent recruitment platform designed to simplify and automate the hiring process using AI-powered resume analysis and applicant tracking.
+
+**Key Features:**
+
+- 📄 AI Resume Parsing
+- 👥 Candidate Management
+- 💼 Job Posting & Application Tracking
+- 🔐 Role-Based Authentication
+- 📊 Admin & Recruitment Dashboard
+- 🔎 Candidate Search and Filtering
+- 📧 Email Notification System
+- 🤖 AI-Assisted Recruitment Workflow
+
+**Tech Stack:** `Python` `Django` `Django REST Framework` `PostgreSQL` `AI/NLP`
+
+---
+
+### 🚁 AI Autonomous Drone System
+
+An intelligent drone management and autonomous navigation system focused on AI-assisted control, safe-zone detection and autonomous systems.
+
+**Key Features:**
+
+- 🚁 Autonomous Navigation
+- 🛡️ Safe Zone Detection
+- 🎮 Drone Control System
+- 🤖 AI-Assisted Decision Making
+- 🗺️ Map-Based Monitoring
+- 📷 Camera Feed Integration
+
+**Tech Stack:** `Python` `Artificial Intelligence` `Computer Vision` `Autonomous Systems`
+
+---
+
+### 📅 Smart Appointment & Queue Booking System
+
+A professional appointment and digital queue management platform designed for hospitals, clinics and service-based organizations.
+
+**Key Features:**
+
+- 📅 Online Appointment Booking
+- 🎫 Digital Queue Management
+- 🔐 User Authentication
+- 📊 Admin Dashboard
+- 🔔 Appointment Tracking
+- 🗄️ PostgreSQL Database Integration
+
+**Tech Stack:** `Python` `Django` `PostgreSQL` `HTML` `CSS` `JavaScript`
+
+---
+
+<h2 align="center">💻 Tech Stack</h2>
+
+<h3 align="center">Languages and Tools</h3>
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css,django,flask,docker,linux,postgres,mysql,mongodb,redis,git,github,postman,vscode,pycharm,react&perline=11"
+    alt="Pijush Pakrashi Languages and Tools"
+  />
+</p>
+
+<br/>
+
+<h3 align="center">🐍 Programming Languages</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+</p>
+
+<h3 align="center">⚙️ Backend Development</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/Django_REST_Framework-A30000?style=for-the-badge&logo=django&logoColor=white" alt="Django REST Framework"/>
+  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+</p>
+
+<h3 align="center">🗄️ Databases</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+</p>
+
+<h3 align="center">🎨 Frontend Technologies</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+</p>
+
+<h3 align="center">🛠️ Developer Tools & Deployment</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Windows Terminal"/>
+</p>
+
+---
+
+<h2 align="center">🎯 Current Focus</h2>
+
+<p align="center">
+
+🔹 Advanced Python Development  
+🔹 Django Backend Architecture  
+🔹 Django REST Framework  
+🔹 REST API Development  
+🔹 PostgreSQL & Database Design  
+🔹 AI Integration with Web Applications  
+🔹 Robotics & Autonomous Systems  
+🔹 Cloud Computing & Deployment  
+🔹 Data Structures & Algorithms
+
+</p>
+
+---
+
+<h2 align="center">📚 Currently Learning</h2>
+
+<p align="center">
+
+🧠 Artificial Intelligence  
+🤖 Robotics & Autonomous Systems  
+☁️ Cloud Computing  
+🏗️ Backend System Design  
+🔐 API Authentication & Security  
+🐳 Docker & Application Deployment
+
+</p>
+
+---
+
+<h2 align="center">📊 GitHub Statistics</h2>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=pijush-pakrashi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    width="48%"
+    alt="Pijush Pakrashi GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pijush-pakrashi&layout=compact&theme=tokyonight&hide_border=true"
+    width="40%"
+    alt="Pijush Pakrashi Top Languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=pijush-pakrashi&theme=tokyonight&hide_border=true"
+    width="70%"
+    alt="Pijush Pakrashi GitHub Streak"
+  />
+</p>
+
+---
+
+<h2 align="center">📈 GitHub Activity</h2>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=pijush-pakrashi&theme=tokyo-night&hide_border=true&area=true"
+    width="100%"
+    alt="Pijush Pakrashi GitHub Activity Graph"
+  />
+</p>
+
+---
+
+<h2 align="center">🏆 Achievement Showcase</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/pijush-pakrashi?label=GitHub%20Followers&style=for-the-badge&logo=github" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/github/stars/pijush-pakrashi?affiliations=OWNER&style=for-the-badge&logo=github&label=Total%20Stars" alt="GitHub Stars"/>
+  <img src="https://img.shields.io/badge/Focus-Python%20%26%20Django-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python and Django Focus"/>
+  <img src="https://img.shields.io/badge/Building-AI%20Powered%20Projects-8A2BE2?style=for-the-badge" alt="AI Powered Projects"/>
+</p>
+
+<p align="center">
+  <b>🏆 Building • Learning • Contributing • Improving</b>
+</p>
+
+---
+
+<h2 align="center">📊 Profile Visitors</h2>
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=pijush-pakrashi&label=PIJUSH%20PROFILE%20VIEWS&color=0e75b6&style=for-the-badge"
+    height="40"
+    alt="Pijush Pakrashi Profile Views"
+  />
+</p>
+
+---
+
+<h2 align="center">🚀 Code • Build • Learn • Innovate</h2>
+
+<p align="center">
+  <b>
+    Turning ideas into intelligent software solutions with Python,
+    Artificial Intelligence and Robotics.
+  </b>
+</p>
+
+<p align="center">
+  ⭐ From <b>Pijush Pakrashi</b>
+</p>
